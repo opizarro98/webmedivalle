@@ -21,7 +21,7 @@
                     <ul class="social-icon">
 
                         <li class="social-icon-item">
-                            <a href="#" class="social-icon-link bi-facebook"></a>
+                            <a href="https://www.facebook.com/medivalle01/?locale=es_LA" class="social-icon-link bi-facebook"></a>
                         </li>
 
                         <li class="social-icon-item">

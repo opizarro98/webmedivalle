@@ -186,7 +186,7 @@
                     <div class="custom-text-box">
                         <h2 class="mb-2">Conoce nuestra historia</h2>
 
-                        <h5 class="mb-3">Hospital del dia Medi valle</h5>
+                        <h5 class="mb-3">Hospital del dia Medivalle</h5>
 
                         <p class="mb-0">Con más de 12 años al servicio, de la comunidad, medivalle inicia con 
                             un pqueño centro consultorio en la parroquia el valle Cuenca - Ecuador, con los años
@@ -331,7 +331,7 @@
                                 </div>
 
                                 <div class="d-flex align-items-center my-2">
-                                    <p class="mb-0">
+                                    <!--<p class="mb-0">
                                         <strong>Raised:</strong>
                                         $18,500
                                     </p>
@@ -339,11 +339,11 @@
                                     <p class="ms-auto mb-0">
                                         <strong>Goal:</strong>
                                         $32,000
-                                    </p>
+                                    </p>-->
                                 </div>
                             </div>
 
-                            <a href="donate.html" class="custom-btn btn">Donate now</a>
+                            <!--<a href="donate.html" class="custom-btn btn">Donate now</a>-->
                         </div>
                     </div>
                 </div>
@@ -366,19 +366,10 @@
                                 </div>
 
                                 <div class="d-flex align-items-center my-2">
-                                    <p class="mb-0">
-                                        <strong>Raised:</strong>
-                                        $27,600
-                                    </p>
-
-                                    <p class="ms-auto mb-0">
-                                        <strong>Goal:</strong>
-                                        $60,000
-                                    </p>
+                                    
                                 </div>
                             </div>
 
-                            <a href="donate.html" class="custom-btn btn">Donate now</a>
                         </div>
                     </div>
                 </div>
@@ -401,19 +392,10 @@
                                 </div>
 
                                 <div class="d-flex align-items-center my-2">
-                                    <p class="mb-0">
-                                        <strong>Raised:</strong>
-                                        $84,600
-                                    </p>
-
-                                    <p class="ms-auto mb-0">
-                                        <strong>Goal:</strong>
-                                        $100,000
-                                    </p>
+                                   
                                 </div>
                             </div>
 
-                            <a href="donate.html" class="custom-btn btn">Donate now</a>
                         </div>
                     </div>
                 </div>
@@ -492,11 +474,11 @@
 
                             <div class="news-category-block">
                                 <a href="#" class="category-block-link">
-                                    Lifestyle,
+                                    
                                 </a>
 
                                 <a href="#" class="category-block-link">
-                                    Clothing Donation
+                                   
                                 </a>
                             </div>
                         </div>
@@ -598,14 +580,14 @@
 
                 <div class="col-lg-4 col-12 mx-auto">
                     <form class="custom-form search-form" action="#" method="post" role="form">
-                        <input class="form-control" type="search" placeholder="Search" aria-label="Search">
+                        <input class="form-control" type="search" placeholder="Buscar" aria-label="Search">
 
                         <button type="submit" class="form-control">
                             <i class="bi-search"></i>
                         </button>
                     </form>
 
-                    <h5 class="mt-5 mb-3">Recent news</h5>
+                    <h5 class="mt-5 mb-3">Noticias Recientes</h5>
 
                     <div class="news-block news-block-two-col d-flex mt-4">
                         <div class="news-block-two-col-image-wrap">
@@ -617,14 +599,14 @@
 
                         <div class="news-block-two-col-info">
                             <div class="news-block-title mb-2">
-                                <h6><a href="news-detail.html" class="news-block-title-link">Food donation area</a>
+                                <h6><a href="news-detail.html" class="news-block-title-link">Campaña 1</a>
                                 </h6>
                             </div>
 
                             <div class="news-block-date">
                                 <p>
                                     <i class="bi-calendar4 custom-icon me-1"></i>
-                                    October 16, 2036
+                                    Octubre 16, 2036
                                 </p>
                             </div>
                         </div>
@@ -640,49 +622,49 @@
 
                         <div class="news-block-two-col-info">
                             <div class="news-block-title mb-2">
-                                <h6><a href="news-detail.html" class="news-block-title-link">Volunteering Clean</a>
+                                <h6><a href="news-detail.html" class="news-block-title-link">Campaña 2</a>
                                 </h6>
                             </div>
 
                             <div class="news-block-date">
                                 <p>
                                     <i class="bi-calendar4 custom-icon me-1"></i>
-                                    October 24, 2036
+                                    Octubre 24, 2036
                                 </p>
                             </div>
                         </div>
                     </div>
 
                     <div class="category-block d-flex flex-column">
-                        <h5 class="mb-3">Categories</h5>
+                        <h5 class="mb-3">Categorias</h5>
 
                         <a href="#" class="category-block-link">
-                            Drinking water
+                            Nostors
                             <span class="badge">20</span>
                         </a>
 
                         <a href="#" class="category-block-link">
-                            Food Donation
+                            Noticias
                             <span class="badge">30</span>
                         </a>
 
                         <a href="#" class="category-block-link">
-                            Children Education
+                            Servicios
                             <span class="badge">10</span>
                         </a>
 
                         <a href="#" class="category-block-link">
-                            Poverty Development
+                            Contacto
                             <span class="badge">15</span>
                         </a>
 
                         <a href="#" class="category-block-link">
-                            Clothing Donation
+                            Otros
                             <span class="badge">20</span>
                         </a>
                     </div>
 
-                    <div class="tags-block">
+                    <!--<div class="tags-block">
                         <h5 class="mb-3">Tags</h5>
 
                         <a href="#" class="tags-block-link">
@@ -712,7 +694,7 @@
                         <a href="#" class="tags-block-link">
                             Clean Water
                         </a>
-                    </div>
+                    </div> 
 
                     <form class="custom-form subscribe-form" action="#" method="post" role="form">
                         <h5 class="mb-4">Newsletter Form</h5>
@@ -723,7 +705,7 @@
                         <div class="col-lg-12 col-12">
                             <button type="submit" class="form-control">Subscribe</button>
                         </div>
-                    </form>
+                    </form>-->
                 </div>
 
             </div>
@@ -842,7 +824,7 @@
                                 <i class="bi-telephone me-2"></i>
 
                                 <a href="tel: 305-240-9671">
-                                    +593 98-75-15325
+                                    +593 987-515-325
                                 </a>
                             </p>
 
