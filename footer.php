@@ -45,7 +45,7 @@
                         Av.Ricardo Durán Cuenca - Ecuador
                     </p>
 
-                    <a href="#" class="custom-btn btn mt-3">ver en maps</a>
+                    <a href="https://maps.app.goo.gl/iyCMkZpDFMfGzesNA" class="custom-btn btn mt-3">ver en maps</a>
                 </div>
             </div>
         </div>

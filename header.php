@@ -41,10 +41,10 @@
     <nav class="navbar navbar-expand-lg bg-light shadow-lg">
         <div class="container">
             <a class="navbar-brand" href="index.html">
-                <img src="images/logo.png" class="logo img-fluid" alt="Kind Heart Charity">
+                <img src="images/Logo.png" class="logo img-fluid" alt="Kind Heart Charity">
                 <span>
                     MEDIVALLE
-                    <small>Hospital del dia</small>
+                    <small style="color: var(--custom-btn-bg-color);">Hospital del dia</small>
                 </span>
             </a>
 
@@ -56,31 +56,23 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link click-scroll" href="#top">Inicio</a>
+                        <a class="nav-link click-scroll" href="#inicio">Inicio</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link click-scroll" href="#section_2">Nosotros</a>
+                        <a class="nav-link click-scroll" href="#nosotros">Nosotros</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link click-scroll" href="#section_3">Servicios</a>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link click-scroll dropdown-toggle" href="#section_5"
-                            id="navbarLightDropdownMenuLink" role="button" data-bs-toggle="dropdown"
-                            aria-expanded="false">Noticias</a>
-
-                        <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="navbarLightDropdownMenuLink">
-                            <li><a class="dropdown-item" href="news.html">Cuenca</a></li>
-
-                            <li><a class="dropdown-item" href="news-detail.html">Nosotros</a></li>
-                        </ul>
+                        <a class="nav-link click-scroll" href="#profesionales">Profesionales</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link click-scroll" href="#section_6">Contactos</a>
+                        <a class="nav-link click-scroll" href="#servicios">Servicios</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link click-scroll" href="#contactos">Contactos</a>
                     </li>
 
                     <li class="nav-item ms-3">

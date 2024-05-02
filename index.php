@@ -8,7 +8,7 @@
     <meta name="author" content="">
 
     <title>MEDIVALLE</title>
-    <link rel="shortcut icon" href="images/logo.png" />
+    <link rel="shortcut icon" href="images/iconoLogo.png" />
 
     <!--  
     ***************************************
@@ -35,7 +35,7 @@
 
 </head>
 
-<body id="section_1">
+<body id="inicio">
 <!--  
 ***************************************
             CABECERA 
@@ -173,7 +173,7 @@
         </div>
     </section>
 
-    <section class="section-padding section-bg" id="section_2">
+    <section class="section-padding section-bg" id="nosotros">
         <div class="container">
             <div class="row">
 
@@ -199,8 +199,7 @@
                             <div class="custom-text-box mb-lg-0">
                                 <h5 class="mb-3">Nuestra misión</h5>
 
-                                <p>Prestar servicios de salud, y dar atención no sólo a personas con enfermedad 
-                                    sino también a otros aspectos físicos y psíquicos que producen bienestar a las mismas.</p>
+                                <p>Somos una institución que día a día trabaja bajo el concepto de “Buenas Prácticas y servicios de calidad”, para que nuestros pacientes puedan sentirse reconfortados a través de nuestra atención profesional orientada a brindarles soluciones con calidad, servicio humano a través de su cartera de servicios, cumpliendo con la responsabilidad de promoción, prevención, recuperación, rehabilitación de la salud integral.</p>
 
                                 <ul class="custom-list mt-2">
                                     <li class="custom-list-item d-flex">
@@ -217,26 +216,22 @@
                         </div>
 
                         <div class="col-lg-6 col-md-6 col-12">
-                            <div class="custom-text-box d-flex flex-wrap d-lg-block mb-lg-0">
-                                <div class="counter-thumb">
-                                    <div class="d-flex">
-                                        <span class="counter-number" data-from="1" data-to="2009"
-                                            data-speed="1000"></span>
-                                        <span class="counter-number-text"></span>
-                                    </div>
+                            <div class="custom-text-box mb-lg-0">
+                                <h5 class="mb-3">Nuestra misión</h5>
 
-                                    <span class="counter-text">Fundador</span>
-                                </div>
+                                <p>Somos una institución que día a día trabaja bajo el concepto de “Buenas Prácticas y servicios de calidad”, para que nuestros pacientes puedan sentirse reconfortados a través de nuestra atención profesional orientada a brindarles soluciones con calidad, servicio humano a través de su cartera de servicios, cumpliendo con la responsabilidad de promoción, prevención, recuperación, rehabilitación de la salud integral.</p>
 
-                                <div class="counter-thumb mt-4">
-                                    <div class="d-flex">
-                                        <span class="counter-number" data-from="1" data-to="120"
-                                            data-speed="1000"></span>
-                                        <span class="counter-number-text">B</span>
-                                    </div>
+                                <ul class="custom-list mt-2">
+                                    <li class="custom-list-item d-flex">
+                                        <i class="bi-check custom-text-box-icon me-2"></i>
+                                        Salud
+                                    </li>
 
-                                    <span class="counter-text">Donations</span>
-                                </div>
+                                    <li class="custom-list-item d-flex">
+                                        <i class="bi-check custom-text-box-icon me-2"></i>
+                                        Seguimiento
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -247,43 +242,51 @@
     </section>
 
 
-    <section class="about-section section-padding">
+    <section class="about-section section-padding" id="profesionales">
         <div class="container">
-            <div class="row">
+           <div class="row">
+                <div class="col-lg-3 col-md-6 col-12">
+                    <img src="images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
+                        class="volunteer-image img-fluid" alt="">
 
-                <div class="col-lg-6 col-md-5 col-12">
-                    <img src="images/portrait-volunteer-who-organized-donations-charity.jpg"
-                        class="about-image ms-lg-auto bg-light shadow-lg img-fluid" alt="">
-                </div>
-
-                <div class="col-lg-5 col-md-7 col-12">
-                    <div class="custom-text-block">
-                        <h2 class="mb-0">Sandy Chan</h2>
-
-                        <p class="text-muted mb-lg-4 mb-md-4">Founding Partner</p>
-
-                        <p>Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm tokito Professional
-                            charity theme based</p>
-
-                        <p>Sed leo nisl, posuere at molestie ac, suscipit auctor mauris. Etiam quis metus</p>
-
-                        <ul class="social-icon mt-4">
-                            <li class="social-icon-item">
-                                <a href="#" class="social-icon-link bi-twitter"></a>
-                            </li>
-
-                            <li class="social-icon-item">
-                                <a href="#" class="social-icon-link bi-facebook"></a>
-                            </li>
-
-                            <li class="social-icon-item">
-                                <a href="#" class="social-icon-link bi-instagram"></a>
-                            </li>
-                        </ul>
+                    <div class="custom-block-body">
+                        <h4 class="text-black mt-lg-3 mb-lg-3 text-center">About Volunteering</h4>
+                        <p class="text-black text-justify">Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm
+                            tokito Professional charity theme based</p>
                     </div>
                 </div>
+                <div class="col-lg-3 col-md-6 col-12">
+                    <img src="images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
+                        class="volunteer-image img-fluid" alt="">
 
+                    <div class="custom-block-body">
+                        <h4 class="text-black mt-lg-3 mb-lg-3 text-center">About Volunteering</h4>
+                        <p class="text-black text-justify">Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm
+                            tokito Professional charity theme based</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
+                    <img src="images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
+                        class="volunteer-image img-fluid" alt="">
+
+                    <div class="custom-block-body">
+                        <h4 class="text-black mt-lg-3 mb-lg-3 text-center">About Volunteering</h4>
+                        <p class="text-black text-justify">Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm
+                            tokito Professional charity theme based</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-12">
+                    <img src="images/smiling-casual-woman-dressed-volunteer-t-shirt-with-badge.jpg"
+                        class="volunteer-image img-fluid" alt="">
+
+                    <div class="custom-block-body">
+                        <h4 class="text-black mt-lg-3 mb-lg-3 text-center">About Volunteering</h4>
+                        <p class="text-black text-justify">Lorem Ipsum dolor sit amet, consectetur adipsicing kengan omeg kohm
+                            tokito Professional charity theme based</p>
+                    </div>
+                </div>
             </div>
+
         </div>
     </section>
 
@@ -298,7 +301,7 @@
                 <div class="col-lg-5 col-12">
                     <a href="#" class="me-4">Practicas Pre - Profesionales</a>
 
-                    <a href="#section_4" class="custom-btn btn smoothscroll">Conoce mas...</a>
+                    <a href="#servicios" class="custom-btn btn smoothscroll">Conoce mas...</a>
                 </div>
 
             </div>
@@ -306,7 +309,7 @@
     </section>
 
 
-    <section class="section-padding" id="section_3">
+    <section class="section-padding" id="servicios">
         <div class="container">
             <div class="row">
 
@@ -456,7 +459,7 @@
         </div>
     </section> -->
 
-    <section class="news-section section-padding" id="section_5">
+    <section class="news-section section-padding" id="noticias">
         <div class="container">
             <div class="row">
 
@@ -794,7 +797,7 @@
     </section> -->
 
 
-    <section class="contact-section section-padding" id="section_6">
+    <section class="contact-section section-padding" id="contactos">
         <div class="container">
             <div class="row">
 
